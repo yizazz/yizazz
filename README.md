@@ -72,9 +72,9 @@ Me gusta mantenerme activo y salir de la rutina técnica.
 
 ## 📫 Contacto
 
-LinkedIn: [https://www.linkedin.com/in/jesus-astorga/](https://www.linkedin.com/in/jesus-astorga/)
-GitHub: [https://github.com/yizazz](https://github.com/yizazz)
-Email: [jesusastorga53@gmail.com](mailto:jesusastorga53@gmail.com)
+LinkedIn: <a href="https://www.linkedin.com/in/jesus-astorga/" target="_blank">linkedin.com/in/jesus-astorga</a>
+GitHub: <a href="https://github.com/yizazz" target="_blank">github.com/yizazz</a>
+Email: <a href="mailto:jesusastorga53@gmail.com" target="_blank">[jesusastorga53@gmail.com](mailto:jesusastorga53@gmail.com)</a>
 Santiago, Chile
 
 ---
