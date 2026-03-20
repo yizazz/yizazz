@@ -1,79 +1,54 @@
-# 👋 ¡Hola! Soy Jesús Astorga
+# 👋 Hola, soy Jesús Astorga
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-## 💻 Full Stack Developer
+## Full Stack Developer
 
-Desarrollador Full Stack con base técnica en hardware y liderazgo operativo. Combino experiencia en resolución de problemas, coordinación de equipos y desarrollo web moderno para crear soluciones eficientes, seguras y centradas en la experiencia del usuario.
+Desarrollador full stack enfocado en crear productos web útiles, seguros y bien estructurados. Valoro la escucha activa y la retroalimentación constante para construir mejores soluciones en equipo.
 
-🎯 Actualmente buscando oportunidades laborales como **Full Stack Developer**
-
----
-
-## 🚀 Sobre mí
-
-Me muevo cómodo tanto en frontend como en backend, construyendo aplicaciones completas, funcionales y bien estructuradas.
-
-Vengo del mundo técnico (hardware + soporte), lo que me dio una base sólida en:
-
-* Pensamiento lógico
-* Troubleshooting avanzado
-* Optimización de sistemas
-* Trabajo bajo presión
-* Liderazgo de equipos
-
-Hoy aplico todo eso al desarrollo de software moderno.
+Actualmente buscando oportunidades como Full Stack Developer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Cómo trabajo
 
-### Frontend
+* Pienso primero en la experiencia del usuario
+* Prefiero soluciones simples, mantenibles y escalables
+* Me gusta aprender haciendo y construir proyectos reales
+* Documentar y ordenar es parte del proceso, no un extra
 
-* ⚛️ React.js
-* 🎨 HTML5
-* 🎨 CSS3
-* 🅱️ Bootstrap
+---
 
-### Backend
+## 🛠 Stack
 
-* 🐍 Python
-* 🌶️ Flask
-* 🟢 Node.js
-* 🔐 JSON Web Tokens (JWT)
-* 🧩 RESTful APIs
+**Frontend**
+React · HTML5 · CSS3 · Bootstrap
 
-### Base de Datos
+**Backend**
+Python · Flask · Node.js · REST APIs · JSON Web Tokens (JWT)
 
-* 🐘 PostgreSQL
-* 🧱 SQL
-* ⚙️ SQLAlchemy
+**Base de datos**
+PostgreSQL · SQL · SQLAlchemy
 
-### Testing & Tools
-
-* 🧪 Jest
-* 🧠 Git
-* 🐙 GitHub
-* 🔄 n8n (automatización — actualmente aprendiendo más en profundidad)
+**Herramientas**
+Git · GitHub · Jest · n8n (automatización — aprendiendo en profundidad)
 
 ---
 
 ## 📌 Proyecto Destacado
 
-### 🍳 Saborify — Plataforma Social de Recetas
+**Saborify — Plataforma social de recetas**
 
-## 🎓 Educación
+Aplicación web full stack para crear y compartir recetas en un entorno intuitivo y seguro.
 
-**Full Stack Software Developer** — 4Geeks Academy (2025)
+* Desarrollo completo con React y Flask
+* Sistema de autenticación con JWT
+* Gestión de recetas por usuario
+* Comentarios y calificaciones (1–5 estrellas)
+* Modo claro/oscuro con variables CSS
+* Backend estructurado con Flask + SQLAlchemy
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yizazz&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yizazz&theme=tokyonight" height="170" />
-</p>
+Stack: React · Flask · PostgreSQL · JWT · SQLAlchemy · REST API
 
 ---
 
@@ -85,21 +60,23 @@ Hoy aplico todo eso al desarrollo de software moderno.
 
 ---
 
-## 🤝 Conectemos
+## 🎯 Más allá del código
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/jesus-astorga/](https://www.linkedin.com/in/jesus-astorga/)
-* 🐙 GitHub: [https://github.com/yizazz](https://github.com/yizazz)
-* 📧 Email: [jesusastorga53@gmail.com](mailto:jesusastorga53@gmail.com)
-* 📍 Santiago, Chile
+Me gusta mantenerme activo y salir de la rutina técnica.
 
----
-
-## ⚡ Filosofía de trabajo
-
-> La tecnología es una herramienta para resolver problemas reales.
->
-> Código claro. Sistemas eficientes. Experiencia de usuario primero.
+* 🚵 Practico downhill MTB siempre que puedo
+* 💻 Disfruto aprender sobre nuevas tecnologías para computadores
+* 🌄 Disfruto mucho la belleza de la naturaleza
 
 ---
 
-⭐ Siempre construyendo. Siempre aprendiendo. Siempre mejorando.
+## 📫 Contacto
+
+LinkedIn: [https://www.linkedin.com/in/jesus-astorga/](https://www.linkedin.com/in/jesus-astorga/)
+GitHub: [https://github.com/yizazz](https://github.com/yizazz)
+Email: [jesusastorga53@gmail.com](mailto:jesusastorga53@gmail.com)
+Santiago, Chile
+
+---
+
+Siempre construyendo. Siempre aprendiendo.
