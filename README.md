@@ -1,6 +1,6 @@
-# 👋 Hola, soy Jesús Astorga
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<p align="center">
+  <img src="banner.png.png" width="100%" />
+</p>
 
 ## Full Stack Developer
 
@@ -73,7 +73,6 @@ Me gusta mantenerme activo y salir de la rutina técnica.
 ## 📫 Contacto
 
 LinkedIn: <a href="https://www.linkedin.com/in/jesus-astorga/" target="_blank">linkedin.com/in/jesus-astorga</a>
-GitHub: <a href="https://github.com/yizazz" target="_blank">github.com/yizazz</a>
 Email: <a href="mailto:jesusastorga53@gmail.com" target="_blank">[jesusastorga53@gmail.com](mailto:jesusastorga53@gmail.com)</a>
 Santiago, Chile
 
